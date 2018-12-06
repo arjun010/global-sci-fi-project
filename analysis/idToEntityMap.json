@@ -1,0 +1,3647 @@
+{
+ "3xf3b3": {
+  "DATE": {
+   "count": 2, 
+   "values": [
+    "one day", 
+    "22 years"
+   ]
+  }, 
+  "PERCENT": {
+   "count": 1, 
+   "values": [
+    "nearly 75%"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 1, 
+   "values": [
+    "one"
+   ]
+  }, 
+  "LOC": {
+   "count": 1, 
+   "values": [
+    "Earth"
+   ]
+  }
+ }, 
+ "3yaoei": {
+  "LOC": {
+   "count": 1, 
+   "values": [
+    "Earth"
+   ]
+  }, 
+  "PERCENT": {
+   "count": 2, 
+   "values": [
+    "0.0014 percent", 
+    "One percent"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 10, 
+   "values": [
+    "roughly 1", 
+    "5 million", 
+    "one", 
+    "hundreds", 
+    "more than a thousand", 
+    "about 1", 
+    "3", 
+    "two", 
+    "zero", 
+    "hundred"
+   ]
+  }, 
+  "TIME": {
+   "count": 3, 
+   "values": [
+    "seven seconds", 
+    "a few more minutes", 
+    "24 hours"
+   ]
+  }, 
+  "DATE": {
+   "count": 14, 
+   "values": [
+    "today", 
+    "years ago", 
+    "all days", 
+    "billions of years", 
+    "14 billion years", 
+    "200,000 years", 
+    "A few hundred million years", 
+    "farther than a couple hundred years", 
+    "been months", 
+    "years", 
+    "two hundred years", 
+    "three thousand years", 
+    "This year", 
+    "Christmas"
+   ]
+  }, 
+  "ORG": {
+   "count": 1, 
+   "values": [
+    "Sun"
+   ]
+  }, 
+  "QUANTITY": {
+   "count": 1, 
+   "values": [
+    "millions of tons"
+   ]
+  }
+ }, 
+ "20rb3h": {
+  "MONEY": {
+   "count": 1, 
+   "values": [
+    "a trillion trillion trillion"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 1, 
+   "values": [
+    "the few billions"
+   ]
+  }, 
+  "TIME": {
+   "count": 1, 
+   "values": [
+    "The night"
+   ]
+  }
+ }, 
+ "6usqkd": {
+  "LOC": {
+   "count": 2, 
+   "values": [
+    "Mars", 
+    "the Red Walls"
+   ]
+  }, 
+  "GPE": {
+   "count": 1, 
+   "values": [
+    "Cape Canaveral"
+   ]
+  }, 
+  "PERSON": {
+   "count": 2, 
+   "values": [
+    "Jump", 
+    "U.S.S. Terra"
+   ]
+  }, 
+  "FAC": {
+   "count": 1, 
+   "values": [
+    "the U.S.S. Terra"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 2, 
+   "values": [
+    "two", 
+    "five"
+   ]
+  }, 
+  "TIME": {
+   "count": 1, 
+   "values": [
+    "the .00000000013 seconds"
+   ]
+  }, 
+  "DATE": {
+   "count": 3, 
+   "values": [
+    "the year 2018", 
+    "2027", 
+    "2029"
+   ]
+  }, 
+  "ORG": {
+   "count": 4, 
+   "values": [
+    "the U.S.S. Terra", 
+    "NASA", 
+    "The U.S.S. Terra", 
+    "Audio"
+   ]
+  }
+ }, 
+ "3ojmgw": {
+  "LOC": {
+   "count": 1, 
+   "values": [
+    "the Kandahar Slaughter"
+   ]
+  }, 
+  "WORK_OF_ART": {
+   "count": 2, 
+   "values": [
+    "Born for War: The Aftermath of the EZRA Project'", 
+    "'Born for War'"
+   ]
+  }, 
+  "PERCENT": {
+   "count": 1, 
+   "values": [
+    "35%"
+   ]
+  }, 
+  "PERSON": {
+   "count": 4, 
+   "values": [
+    "Malcolm Greenwood", 
+    "Susan", 
+    "Greenwood", 
+    "Roland Thompson"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 4, 
+   "values": [
+    "about one", 
+    "three", 
+    "one", 
+    "100"
+   ]
+  }, 
+  "DATE": {
+   "count": 3, 
+   "values": [
+    "May of '", 
+    "32", 
+    "this year"
+   ]
+  }, 
+  "ORG": {
+   "count": 3, 
+   "values": [
+    "EZRA", 
+    "the Immolation of Delhi", 
+    "the United States Army"
+   ]
+  }
+ }, 
+ "5wc9ds": {
+  "DATE": {
+   "count": 5, 
+   "values": [
+    "the leanest centuries", 
+    "the centuries", 
+    "that day", 
+    "years", 
+    "his Coronation day"
+   ]
+  }, 
+  "ORG": {
+   "count": 6, 
+   "values": [
+    "Clerics", 
+    "Coronation", 
+    "Time", 
+    "Lum's", 
+    "K", 
+    "Lum"
+   ]
+  }, 
+  "PRODUCT": {
+   "count": 1, 
+   "values": [
+    "Coronated"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 2, 
+   "values": [
+    "30", 
+    "hundreds"
+   ]
+  }, 
+  "PERSON": {
+   "count": 1, 
+   "values": [
+    "Lum"
+   ]
+  }
+ }, 
+ "5crgly": {
+  "DATE": {
+   "count": 1, 
+   "values": [
+    "Roswell a few months ago"
+   ]
+  }, 
+  "PERSON": {
+   "count": 2, 
+   "values": [
+    "Annabelles", 
+    "Annabelle"
+   ]
+  }, 
+  "TIME": {
+   "count": 1, 
+   "values": [
+    "One night"
+   ]
+  }
+ }, 
+ "2j7m6z": {
+  "DATE": {
+   "count": 1, 
+   "values": [
+    "today"
+   ]
+  }, 
+  "PERSON": {
+   "count": 4, 
+   "values": [
+    "Jeremy Wiesner", 
+    "Jeremy", 
+    "Jeremey", 
+    "Circuts"
+   ]
+  }, 
+  "ORG": {
+   "count": 3, 
+   "values": [
+    " ", 
+    "Jeremy", 
+    "Hoody"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 1, 
+   "values": [
+    "dozens"
+   ]
+  }, 
+  "QUANTITY": {
+   "count": 1, 
+   "values": [
+    "twenty meters"
+   ]
+  }
+ }, 
+ "3cnb1v": {
+  "LOC": {
+   "count": 4, 
+   "values": [
+    "the Northern Hemisphere", 
+    "Earth", 
+    "the moon launched", 
+    "Venus"
+   ]
+  }, 
+  "PRODUCT": {
+   "count": 1, 
+   "values": [
+    "L4"
+   ]
+  }, 
+  "WORK_OF_ART": {
+   "count": 3, 
+   "values": [
+    "Big Shiny Thing", 
+    "This Shit", 
+    "Venus"
+   ]
+  }, 
+  "LANGUAGE": {
+   "count": 2, 
+   "values": [
+    "Arabic", 
+    "English"
+   ]
+  }, 
+  "GPE": {
+   "count": 3, 
+   "values": [
+    "ASCII", 
+    "US", 
+    "Wikipedia"
+   ]
+  }, 
+  "PERSON": {
+   "count": 5, 
+   "values": [
+    "LASER", 
+    "APOLOGIZE", 
+    "Wikipedia", 
+    "Tolkien Elvish", 
+    "Visitor"
+   ]
+  }, 
+  "FAC": {
+   "count": 3, 
+   "values": [
+    "Hubble", 
+    "the International Space Station", 
+    "Broadway"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 5, 
+   "values": [
+    "10", 
+    "Two", 
+    "one", 
+    "two", 
+    "more than 5"
+   ]
+  }, 
+  "TIME": {
+   "count": 1, 
+   "values": [
+    "24 hours"
+   ]
+  }, 
+  "DATE": {
+   "count": 10, 
+   "values": [
+    "A week later", 
+    "Two weeks later", 
+    "two months", 
+    "L2", 
+    "year 2", 
+    "Four years", 
+    "year two", 
+    "Six months later", 
+    "long day", 
+    "the next year"
+   ]
+  }, 
+  "ORG": {
+   "count": 17, 
+   "values": [
+    "Mercury", 
+    "Surface", 
+    "ESA", 
+    "the Chinese Space Agency", 
+    "FUTILE", 
+    " Comedians", 
+    "THE PRESENT CONTEXT", 
+    "BEST", 
+    "Visitor", 
+    "Venus", 
+    "NASA", 
+    "SHIT", 
+    "Klingon", 
+    "AS FRIENDS", 
+    "FUN", 
+    "RUN", 
+    "AU"
+   ]
+  }, 
+  "LAW": {
+   "count": 1, 
+   "values": [
+    "Venus"
+   ]
+  }, 
+  "EVENT": {
+   "count": 1, 
+   "values": [
+    "Interstellar War"
+   ]
+  }, 
+  "QUANTITY": {
+   "count": 1, 
+   "values": [
+    "100 km"
+   ]
+  }
+ }, 
+ "472ihj": {
+  "DATE": {
+   "count": 5, 
+   "values": [
+    "two people months", 
+    "a year", 
+    "the day", 
+    "years", 
+    "half a decade"
+   ]
+  }, 
+  "LOC": {
+   "count": 1, 
+   "values": [
+    "Earth"
+   ]
+  }, 
+  "TIME": {
+   "count": 2, 
+   "values": [
+    "just seconds", 
+    "just minutes"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 1, 
+   "values": [
+    "thousands"
+   ]
+  }, 
+  "QUANTITY": {
+   "count": 1, 
+   "values": [
+    "a kilometre"
+   ]
+  }
+ }, 
+ "2q1sqd": {
+  "LOC": {
+   "count": 1, 
+   "values": [
+    "Earth"
+   ]
+  }, 
+  "GPE": {
+   "count": 2, 
+   "values": [
+    "AI", 
+    "Galaxy"
+   ]
+  }, 
+  "PERSON": {
+   "count": 5, 
+   "values": [
+    "Mardock", 
+    "God", 
+    "Asimov", 
+    "AI", 
+    "Create an AI"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 3, 
+   "values": [
+    "dozens", 
+    "One", 
+    "2.0"
+   ]
+  }, 
+  "DATE": {
+   "count": 4, 
+   "values": [
+    "200 light years", 
+    "the last few centuries", 
+    "300 years", 
+    "150 years ago"
+   ]
+  }, 
+  "ORG": {
+   "count": 1, 
+   "values": [
+    "Universe"
+   ]
+  }
+ }, 
+ "55nddo": {
+  "DATE": {
+   "count": 4, 
+   "values": [
+    "Roughly eight years ago", 
+    "12-light-year", 
+    "Years later", 
+    "weeks"
+   ]
+  }, 
+  "PERSON": {
+   "count": 5, 
+   "values": [
+    "Tau", 
+    "Maxine", 
+    "Milo", 
+    "Radio", 
+    "Flares"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 2, 
+   "values": [
+    "below-zero", 
+    "12"
+   ]
+  }, 
+  "GPE": {
+   "count": 1, 
+   "values": [
+    "Flare"
+   ]
+  }, 
+  "LOC": {
+   "count": 1, 
+   "values": [
+    "Earth"
+   ]
+  }
+ }, 
+ "2jr1zp": {
+  "ORG": {
+   "count": 2, 
+   "values": [
+    "Time", 
+    "ARK"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 2, 
+   "values": [
+    "one", 
+    "11"
+   ]
+  }, 
+  "TIME": {
+   "count": 1, 
+   "values": [
+    "millennia and seconds"
+   ]
+  }
+ }, 
+ "2qg5k0": {
+  "LOC": {
+   "count": 3, 
+   "values": [
+    "Earth", 
+    " ", 
+    "Jupiter"
+   ]
+  }, 
+  "GPE": {
+   "count": 7, 
+   "values": [
+    "HOUSTON", 
+    "Saturn", 
+    "OKULOUS - Argh", 
+    "Breathing", 
+    "Houston", 
+    "Al", 
+    "HOUSTON - Nothing"
+   ]
+  }, 
+  "PERSON": {
+   "count": 11, 
+   "values": [
+    "Al Bozeman", 
+    "Al", 
+    "OKULOUS - Copy", 
+    "OKULOUS - Pressure", 
+    "HOUSTON - Status", 
+    "HOUSTON - Okulous", 
+    "HOUSTON - Bigger", 
+    "OKULOUS - Rewind", 
+    "Terrifying", 
+    "OKULOUS - Oooohhhhhh", 
+    "Al inside"
+   ]
+  }, 
+  "FAC": {
+   "count": 1, 
+   "values": [
+    "Al's"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 6, 
+   "values": [
+    "one", 
+    "thirty", 
+    "six", 
+    "12", 
+    "three", 
+    "thousands"
+   ]
+  }, 
+  "TIME": {
+   "count": 2, 
+   "values": [
+    "hours", 
+    "almost a minute"
+   ]
+  }, 
+  "DATE": {
+   "count": 3, 
+   "values": [
+    "12 years", 
+    "years", 
+    "that day"
+   ]
+  }, 
+  "ORG": {
+   "count": 6, 
+   "values": [
+    "OKULOUS", 
+    "Command", 
+    "Okulous", 
+    " Shudder", 
+    "SMASH", 
+    "Al"
+   ]
+  }
+ }, 
+ "2gz391": {
+  "DATE": {
+   "count": 1, 
+   "values": [
+    "the 5 long years"
+   ]
+  }, 
+  "LOC": {
+   "count": 2, 
+   "values": [
+    "earth", 
+    "Atlantic"
+   ]
+  }
+ }, 
+ "2bx1mq": {
+  "LOC": {
+   "count": 3, 
+   "values": [
+    "Mars", 
+    "Onscreen", 
+    "Earth"
+   ]
+  }, 
+  "PRODUCT": {
+   "count": 2, 
+   "values": [
+    "Voyager", 
+    "Saturn"
+   ]
+  }, 
+  "GPE": {
+   "count": 3, 
+   "values": [
+    "Saturn", 
+    "Maliks", 
+    "Martian"
+   ]
+  }, 
+  "PERSON": {
+   "count": 4, 
+   "values": [
+    "Malik", 
+    "Greer", 
+    "Martians", 
+    "Saturns"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 1, 
+   "values": [
+    "millions"
+   ]
+  }, 
+  "DATE": {
+   "count": 3, 
+   "values": [
+    "the 1980s", 
+    "A few weeks ago", 
+    "2003"
+   ]
+  }, 
+  "ORG": {
+   "count": 4, 
+   "values": [
+    " Hexagons", 
+    "Ships", 
+    "Cassini", 
+    "Prison"
+   ]
+  }, 
+  "QUANTITY": {
+   "count": 1, 
+   "values": [
+    "nearly 14,000 kilometers"
+   ]
+  }
+ }, 
+ "5aewid": {
+  "ORG": {
+   "count": 1, 
+   "values": [
+    "The Eye of Jupiter"
+   ]
+  }
+ }, 
+ "5zza4f": {
+  "PRODUCT": {
+   "count": 1, 
+   "values": [
+    "Norse"
+   ]
+  }, 
+  "WORK_OF_ART": {
+   "count": 1, 
+   "values": [
+    "St. Patricks Day"
+   ]
+  }, 
+  "GPE": {
+   "count": 4, 
+   "values": [
+    "Ireland", 
+    "St. Patrick", 
+    "Rome", 
+    "Us"
+   ]
+  }, 
+  "PERSON": {
+   "count": 6, 
+   "values": [
+    "Moira", 
+    "Easy", 
+    "Ill", 
+    "Au Myrterie", 
+    "Loch Purslane", 
+    "Lepreckin"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 2, 
+   "values": [
+    "four", 
+    "half"
+   ]
+  }, 
+  "FAC": {
+   "count": 1, 
+   "values": [
+    "Loch Purslane"
+   ]
+  }, 
+  "ORG": {
+   "count": 2, 
+   "values": [
+    "Christ on top", 
+    "St. Patricks"
+   ]
+  }
+ }, 
+ "34mz81": {
+  "LOC": {
+   "count": 1, 
+   "values": [
+    "Earth"
+   ]
+  }, 
+  "WORK_OF_ART": {
+   "count": 1, 
+   "values": [
+    "the \"Grid\""
+   ]
+  }, 
+  "PERSON": {
+   "count": 1, 
+   "values": [
+    "Grid"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 2, 
+   "values": [
+    "trillions", 
+    "dozens"
+   ]
+  }, 
+  "DATE": {
+   "count": 4, 
+   "values": [
+    "72 days ago", 
+    "43 days ago", 
+    "28 days ago", 
+    "a day"
+   ]
+  }, 
+  "QUANTITY": {
+   "count": 1, 
+   "values": [
+    "hundreds of thousands of miles"
+   ]
+  }
+ }, 
+ "8abqct": {
+  "LOC": {
+   "count": 1, 
+   "values": [
+    "the moon flickers"
+   ]
+  }, 
+  "ORG": {
+   "count": 1, 
+   "values": [
+    "Emotional Suppression Unit"
+   ]
+  }, 
+  "DATE": {
+   "count": 1, 
+   "values": [
+    "next day"
+   ]
+  }, 
+  "TIME": {
+   "count": 1, 
+   "values": [
+    "the end of the evening"
+   ]
+  }
+ }, 
+ "2n6vtm": {
+  "LOC": {
+   "count": 1, 
+   "values": [
+    "Earth"
+   ]
+  }, 
+  "PRODUCT": {
+   "count": 1, 
+   "values": [
+    "Network"
+   ]
+  }, 
+  "PERSON": {
+   "count": 5, 
+   "values": [
+    "Tom - the", 
+    "Tom", 
+    "Bob Bloggs", 
+    "Dad", 
+    "Sarah"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 1, 
+   "values": [
+    "a few hundred"
+   ]
+  }, 
+  "TIME": {
+   "count": 3, 
+   "values": [
+    "three hours", 
+    "hours", 
+    "summer evening"
+   ]
+  }, 
+  "DATE": {
+   "count": 7, 
+   "values": [
+    "the day", 
+    "weeks", 
+    "the beginning of the end", 
+    "three years ago", 
+    "a few weeks", 
+    "Three years", 
+    "their ninety-three years"
+   ]
+  }, 
+  "ORG": {
+   "count": 2, 
+   "values": [
+    "Sustained Functions Machine", 
+    "Mazur Farn"
+   ]
+  }, 
+  "LAW": {
+   "count": 1, 
+   "values": [
+    "the Death Code"
+   ]
+  }, 
+  "EVENT": {
+   "count": 1, 
+   "values": [
+    "the Happiness Code"
+   ]
+  }
+ }, 
+ "275dgy": {
+  "DATE": {
+   "count": 1, 
+   "values": [
+    "first billion years"
+   ]
+  }, 
+  "WORK_OF_ART": {
+   "count": 2, 
+   "values": [
+    "Infestation", 
+    "'Administer"
+   ]
+  }, 
+  "TIME": {
+   "count": 1, 
+   "values": [
+    "that morning"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 1, 
+   "values": [
+    "One"
+   ]
+  }, 
+  "ORG": {
+   "count": 1, 
+   "values": [
+    "Organic"
+   ]
+  }
+ }, 
+ "2l9qc9": {
+  "ORG": {
+   "count": 2, 
+   "values": [
+    "Oxygen", 
+    "Unscheduled Atmospheric Re-entry"
+   ]
+  }
+ }, 
+ "346elo": {
+  "LOC": {
+   "count": 1, 
+   "values": [
+    "Mars"
+   ]
+  }, 
+  "TIME": {
+   "count": 1, 
+   "values": [
+    "half an hour later"
+   ]
+  }
+ }, 
+ "6as61i": {
+  "LOC": {
+   "count": 1, 
+   "values": [
+    "Earth"
+   ]
+  }, 
+  "PERSON": {
+   "count": 3, 
+   "values": [
+    "  Waitis", 
+    "Dude", 
+    " Fuck"
+   ]
+  }, 
+  "ORG": {
+   "count": 1, 
+   "values": [
+    " "
+   ]
+  }, 
+  "TIME": {
+   "count": 2, 
+   "values": [
+    "last night", 
+    "the night"
+   ]
+  }
+ }, 
+ "2fj2ix": {
+  "PERSON": {
+   "count": 1, 
+   "values": [
+    "Sol"
+   ]
+  }, 
+  "QUANTITY": {
+   "count": 1, 
+   "values": [
+    "hundreds of miles"
+   ]
+  }, 
+  "TIME": {
+   "count": 1, 
+   "values": [
+    "Every minute"
+   ]
+  }, 
+  "ORG": {
+   "count": 1, 
+   "values": [
+    "Alpha Centauri"
+   ]
+  }, 
+  "LOC": {
+   "count": 1, 
+   "values": [
+    "Earth"
+   ]
+  }
+ }, 
+ "6d76aw": {
+  "DATE": {
+   "count": 5, 
+   "values": [
+    "decades", 
+    "Some centuries", 
+    "the first gateways", 
+    "Millions of years later", 
+    "our million years"
+   ]
+  }, 
+  "LOC": {
+   "count": 1, 
+   "values": [
+    "Earth"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 3, 
+   "values": [
+    "Two", 
+    "thousands", 
+    "a thousand"
+   ]
+  }
+ }, 
+ "3x32q3": {
+  "GPE": {
+   "count": 1, 
+   "values": [
+    "Walmart"
+   ]
+  }, 
+  "PERSON": {
+   "count": 3, 
+   "values": [
+    "Tall", 
+    "Heh", 
+    "Yoanna"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 1, 
+   "values": [
+    "One"
+   ]
+  }, 
+  "TIME": {
+   "count": 2, 
+   "values": [
+    "Next morning", 
+    "15:02 minutes"
+   ]
+  }, 
+  "DATE": {
+   "count": 12, 
+   "values": [
+    "December 10, 2014", 
+    "a year ago", 
+    " Jan 24, 2015", 
+    "Feb 5, March 12", 
+    "April 16", 
+    "May 20", 
+    "July 1", 
+    "a month", 
+    "August 13, September 5", 
+    "October 12", 
+    "days", 
+    "November 21"
+   ]
+  }, 
+  "ORG": {
+   "count": 9, 
+   "values": [
+    "Heavy", 
+    " Holy", 
+    "Reddit", 
+    " ", 
+    "Chair", 
+    " Ahh", 
+    "Exhale", 
+    "Red Bull", 
+    "Thud"
+   ]
+  }
+ }, 
+ "399btz": {
+  "DATE": {
+   "count": 1, 
+   "values": [
+    "the last few weeks"
+   ]
+  }
+ }, 
+ "2nepsp": {
+  "DATE": {
+   "count": 2, 
+   "values": [
+    "About 100 years ago", 
+    "one day"
+   ]
+  }, 
+  "ORG": {
+   "count": 1, 
+   "values": [
+    " "
+   ]
+  }, 
+  "LOC": {
+   "count": 1, 
+   "values": [
+    "Earth"
+   ]
+  }
+ }, 
+ "7euk2l": {
+  "LOC": {
+   "count": 2, 
+   "values": [
+    "earth", 
+    "Reset Planet Earth"
+   ]
+  }, 
+  "PERSON": {
+   "count": 5, 
+   "values": [
+    "Roscosmos", 
+    "Lagrange", 
+    "Humana Pandir", 
+    "Humanities Leader", 
+    "Aliens"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 2, 
+   "values": [
+    "only one", 
+    "Two"
+   ]
+  }, 
+  "TIME": {
+   "count": 1, 
+   "values": [
+    "the last seconds"
+   ]
+  }, 
+  "DATE": {
+   "count": 4, 
+   "values": [
+    "The following week", 
+    "the next year", 
+    "this day", 
+    "earlier days"
+   ]
+  }, 
+  "ORG": {
+   "count": 14, 
+   "values": [
+    "Signal", 
+    "WOW", 
+    "the European Space Agency", 
+    "ESA", 
+    "NASA", 
+    " ", 
+    "Becoming", 
+    "the \"Human Preservation Union\"", 
+    "Humanity", 
+    "HPU", 
+    "Leader of the HPU", 
+    "Unbeknownst", 
+    "Humanas", 
+    "Humana"
+   ]
+  }
+ }, 
+ "8jyqs3": {
+  "QUANTITY": {
+   "count": 1, 
+   "values": [
+    "Three feet"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 2, 
+   "values": [
+    "one", 
+    "401"
+   ]
+  }, 
+  "TIME": {
+   "count": 1, 
+   "values": [
+    "night"
+   ]
+  }
+ }, 
+ "5nu0wq": {
+  "DATE": {
+   "count": 1, 
+   "values": [
+    "64 year"
+   ]
+  }, 
+  "PERSON": {
+   "count": 3, 
+   "values": [
+    "Hitler", 
+    "Norman Dudley", 
+    "Einstein"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 1, 
+   "values": [
+    "three"
+   ]
+  }, 
+  "GPE": {
+   "count": 1, 
+   "values": [
+    "Kindle"
+   ]
+  }, 
+  "TIME": {
+   "count": 1, 
+   "values": [
+    "seconds"
+   ]
+  }
+ }, 
+ "72urx4": {
+  "PERCENT": {
+   "count": 1, 
+   "values": [
+    "99%"
+   ]
+  }, 
+  "PERSON": {
+   "count": 2, 
+   "values": [
+    "Salutations", 
+    "AI"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 3, 
+   "values": [
+    "6", 
+    "between 15 and 45 light years", 
+    "1ppm"
+   ]
+  }, 
+  "GPE": {
+   "count": 1, 
+   "values": [
+    "AI"
+   ]
+  }
+ }, 
+ "8j1n7k": {
+  "DATE": {
+   "count": 6, 
+   "values": [
+    "2037", 
+    "less than three years", 
+    "seven months", 
+    "more than a dozen years", 
+    "About two months", 
+    "the past forty-five years"
+   ]
+  }, 
+  "LOC": {
+   "count": 5, 
+   "values": [
+    "Earth", 
+    "Jupiter", 
+    "Europa", 
+    "Mother Earth", 
+    "the moon and then"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 2, 
+   "values": [
+    "one", 
+    "eight billion"
+   ]
+  }, 
+  "ORG": {
+   "count": 3, 
+   "values": [
+    "Oxygen", 
+    "Idyllic", 
+    "Europaen"
+   ]
+  }, 
+  "PERSON": {
+   "count": 1, 
+   "values": [
+    "Earthquakes"
+   ]
+  }
+ }, 
+ "8o9q2u": {
+  "LOC": {
+   "count": 2, 
+   "values": [
+    "Jupiter", 
+    "Earth"
+   ]
+  }, 
+  "PRODUCT": {
+   "count": 1, 
+   "values": [
+    "Battery A78"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 2, 
+   "values": [
+    "one", 
+    "hundreds"
+   ]
+  }, 
+  "ORG": {
+   "count": 2, 
+   "values": [
+    "the Space Fleet", 
+    "the Kinetic Artillery Corps"
+   ]
+  }, 
+  "PERSON": {
+   "count": 1, 
+   "values": [
+    "Francis Henley"
+   ]
+  }
+ }, 
+ "3i9z0h": {
+  "LOC": {
+   "count": 1, 
+   "values": [
+    "Earth"
+   ]
+  }
+ }, 
+ "464oxz": {
+  "DATE": {
+   "count": 2, 
+   "values": [
+    "the first month or so", 
+    "12 years"
+   ]
+  }, 
+  "GPE": {
+   "count": 1, 
+   "values": [
+    "Rebecca"
+   ]
+  }, 
+  "PERSON": {
+   "count": 4, 
+   "values": [
+    "Tim", 
+    "Tom", 
+    "Starter Friend", 
+    "Sympathy"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 3, 
+   "values": [
+    "one", 
+    "four", 
+    "five"
+   ]
+  }, 
+  "TIME": {
+   "count": 6, 
+   "values": [
+    "just six minutes", 
+    "Six minutes", 
+    "six minutes", 
+    "the next 48 hours", 
+    "the six minutes", 
+    "about six minutes"
+   ]
+  }
+ }, 
+ "40svk3": {
+  "DATE": {
+   "count": 7, 
+   "values": [
+    "trillions of years ago", 
+    "nearly a billion years", 
+    "these days", 
+    "Some time ago", 
+    "eons", 
+    "Every few million years", 
+    "billions of years"
+   ]
+  }, 
+  "ORG": {
+   "count": 1, 
+   "values": [
+    "FTL"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 3, 
+   "values": [
+    "one", 
+    "trillions", 
+    "thousands"
+   ]
+  }, 
+  "PERSON": {
+   "count": 1, 
+   "values": [
+    "Ill"
+   ]
+  }, 
+  "TIME": {
+   "count": 1, 
+   "values": [
+    "night"
+   ]
+  }
+ }, 
+ "37yhmz": {
+  "LOC": {
+   "count": 2, 
+   "values": [
+    "Earth", 
+    "earth"
+   ]
+  }, 
+  "MONEY": {
+   "count": 1, 
+   "values": [
+    "over 2.1 billion years"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 6, 
+   "values": [
+    "1", 
+    "only one", 
+    "32-bit", 
+    "two", 
+    "Only one", 
+    "zero"
+   ]
+  }, 
+  "TIME": {
+   "count": 3, 
+   "values": [
+    "less than a second later", 
+    "a few seconds", 
+    "More hours"
+   ]
+  }, 
+  "DATE": {
+   "count": 3, 
+   "values": [
+    "The day and month", 
+    "The year read 2,147,483,647", 
+    "30s"
+   ]
+  }, 
+  "ORG": {
+   "count": 1, 
+   "values": [
+    "Humanity"
+   ]
+  }
+ }, 
+ "3w22f9": {
+  "DATE": {
+   "count": 2, 
+   "values": [
+    "that day", 
+    "no more than two weeks"
+   ]
+  }, 
+  "PERSON": {
+   "count": 2, 
+   "values": [
+    "Moon", 
+    "Milky Way"
+   ]
+  }, 
+  "ORG": {
+   "count": 1, 
+   "values": [
+    "Betelgeux"
+   ]
+  }, 
+  "TIME": {
+   "count": 4, 
+   "values": [
+    "night", 
+    "the evening", 
+    "the morning", 
+    "a few minutes"
+   ]
+  }
+ }, 
+ "5jxp00": {
+  "LOC": {
+   "count": 1, 
+   "values": [
+    "Earth"
+   ]
+  }, 
+  "WORK_OF_ART": {
+   "count": 2, 
+   "values": [
+    "Helena", 
+    " \"Classified"
+   ]
+  }, 
+  "GPE": {
+   "count": 1, 
+   "values": [
+    "Santa"
+   ]
+  }, 
+  "PERSON": {
+   "count": 3, 
+   "values": [
+    "Santa", 
+    "Mama", 
+    "Thensuddenlya"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 1, 
+   "values": [
+    "one"
+   ]
+  }, 
+  "DATE": {
+   "count": 1, 
+   "values": [
+    "today"
+   ]
+  }, 
+  "ORG": {
+   "count": 2, 
+   "values": [
+    "Helena", 
+    "Panoptic Government Surveillance"
+   ]
+  }
+ }, 
+ "2medrg": {
+  "FAC": {
+   "count": 1, 
+   "values": [
+    "the Finsbury Centre"
+   ]
+  }, 
+  "WORK_OF_ART": {
+   "count": 1, 
+   "values": [
+    "The Bible"
+   ]
+  }, 
+  "GPE": {
+   "count": 4, 
+   "values": [
+    "Moneys", 
+    "Ferals", 
+    "Luna City", 
+    "Tasmania"
+   ]
+  }, 
+  "PERSON": {
+   "count": 11, 
+   "values": [
+    "Lets", 
+    "Bonnie", 
+    "Meacher", 
+    "Billy Iveson", 
+    "Wolf", 
+    "Little Billy Iveson", 
+    "Joe Jones", 
+    "Said", 
+    "Hazel", 
+    "Luna", 
+    "Lady Luna"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 12, 
+   "values": [
+    "3.5", 
+    "2", 
+    "1", 
+    "zero", 
+    "4", 
+    "4.0", 
+    "Im half", 
+    "3.0s", 
+    "higher than 3.1", 
+    "two", 
+    "2.0", 
+    "zeros"
+   ]
+  }, 
+  "TIME": {
+   "count": 5, 
+   "values": [
+    "about an hour old", 
+    "night", 
+    "about ten hours", 
+    "Last night", 
+    "lovely tonight"
+   ]
+  }, 
+  "DATE": {
+   "count": 3, 
+   "values": [
+    "a few years", 
+    "each day", 
+    "a day old"
+   ]
+  }, 
+  "ORG": {
+   "count": 4, 
+   "values": [
+    "Canada Air Freight", 
+    "a Live Birth", 
+    "DOT", 
+    "Purity"
+   ]
+  }
+ }, 
+ "3hz5yo": {
+  "ORG": {
+   "count": 2, 
+   "values": [
+    "Resting", 
+    "EEG"
+   ]
+  }, 
+  "PRODUCT": {
+   "count": 1, 
+   "values": [
+    "Oculus Rift"
+   ]
+  }, 
+  "GPE": {
+   "count": 1, 
+   "values": [
+    "Paris"
+   ]
+  }
+ }, 
+ "7nmeay": {
+  "ORG": {
+   "count": 1, 
+   "values": [
+    "Broken"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 5, 
+   "values": [
+    "hundreds of thousands, millions", 
+    "billions", 
+    "hundreds of thousands", 
+    "718,487,321", 
+    "half"
+   ]
+  }
+ }, 
+ "3srykl": {
+  "DATE": {
+   "count": 3, 
+   "values": [
+    "million-odd", 
+    "One day", 
+    "millions of years old"
+   ]
+  }, 
+  "ORG": {
+   "count": 3, 
+   "values": [
+    "Vessel A-59", 
+    "the Home Star", 
+    "A-59"
+   ]
+  }, 
+  "LOC": {
+   "count": 1, 
+   "values": [
+    "Earth"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 2, 
+   "values": [
+    "million", 
+    "one"
+   ]
+  }, 
+  "PERSON": {
+   "count": 2, 
+   "values": [
+    "G2V", 
+    "Voyager-1"
+   ]
+  }
+ }, 
+ "3g9noj": {
+  "LOC": {
+   "count": 2, 
+   "values": [
+    "Earth", 
+    "Terminus"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 3, 
+   "values": [
+    "One half", 
+    "half", 
+    "some 322"
+   ]
+  }, 
+  "TIME": {
+   "count": 2, 
+   "values": [
+    "night", 
+    "under night"
+   ]
+  }
+ }, 
+ "5yp5ih": {
+  "DATE": {
+   "count": 2, 
+   "values": [
+    "91 years", 
+    "2017"
+   ]
+  }, 
+  "ORG": {
+   "count": 1, 
+   "values": [
+    "Times"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 1, 
+   "values": [
+    "two"
+   ]
+  }
+ }, 
+ "3ixqcn": {
+  "GPE": {
+   "count": 2, 
+   "values": [
+    "CALIFORNIA", 
+    "California"
+   ]
+  }, 
+  "PERSON": {
+   "count": 3, 
+   "values": [
+    "AI", 
+    "~ SUNNY", 
+    "  ~"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 6, 
+   "values": [
+    "just one", 
+    "two", 
+    "20/06/2028", 
+    "3320318203217340232213248320", 
+    "3432043920348320431232134829", 
+    "one"
+   ]
+  }, 
+  "TIME": {
+   "count": 1, 
+   "values": [
+    "the night"
+   ]
+  }, 
+  "DATE": {
+   "count": 6, 
+   "values": [
+    "the past day", 
+    "four years", 
+    "the past week", 
+    "daily", 
+    "today", 
+    "3293012321043820348201239203"
+   ]
+  }, 
+  "ORG": {
+   "count": 3, 
+   "values": [
+    "Singularity", 
+    " ~", 
+    "Objects"
+   ]
+  }
+ }, 
+ "4nb8ge": {
+  "DATE": {
+   "count": 2, 
+   "values": [
+    "The days", 
+    "hundred-year old"
+   ]
+  }, 
+  "LOC": {
+   "count": 1, 
+   "values": [
+    "Earth"
+   ]
+  }, 
+  "PRODUCT": {
+   "count": 1, 
+   "values": [
+    "Taurus"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 4, 
+   "values": [
+    "hundreds", 
+    "one", 
+    "three", 
+    "18"
+   ]
+  }, 
+  "TIME": {
+   "count": 7, 
+   "values": [
+    "every morning", 
+    "his last morning", 
+    "a good few hours", 
+    "the night", 
+    "only a few hours", 
+    "night", 
+    "Roughly an hour later"
+   ]
+  }
+ }, 
+ "7ort2d": {
+  "GPE": {
+   "count": 1, 
+   "values": [
+    "Honoring"
+   ]
+  }
+ }, 
+ "3ddwxy": {}, 
+ "3npa3w": {
+  "LOC": {
+   "count": 2, 
+   "values": [
+    "Earth", 
+    "the Atlantic Ocean"
+   ]
+  }, 
+  "GPE": {
+   "count": 1, 
+   "values": [
+    "Kenya"
+   ]
+  }, 
+  "PERSON": {
+   "count": 2, 
+   "values": [
+    "Doom", 
+    "Nature"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 3, 
+   "values": [
+    "forty", 
+    "five", 
+    "three"
+   ]
+  }, 
+  "DATE": {
+   "count": 1, 
+   "values": [
+    "A year later"
+   ]
+  }, 
+  "FAC": {
+   "count": 1, 
+   "values": [
+    "Peace"
+   ]
+  }
+ }, 
+ "39ohvt": {
+  "DATE": {
+   "count": 2, 
+   "values": [
+    "every day", 
+    "2,934 years"
+   ]
+  }, 
+  "PERSON": {
+   "count": 1, 
+   "values": [
+    "Something"
+   ]
+  }, 
+  "ORG": {
+   "count": 1, 
+   "values": [
+    "Horror"
+   ]
+  }
+ }, 
+ "3iifkz": {
+  "WORK_OF_ART": {
+   "count": 1, 
+   "values": [
+    "Lantern"
+   ]
+  }, 
+  "PERSON": {
+   "count": 6, 
+   "values": [
+    "Michael Lantern - the", 
+    "Sange", 
+    "Hushed", 
+    "Dyson", 
+    "Murmurs", 
+    "Michael Lantern"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 1, 
+   "values": [
+    "One"
+   ]
+  }, 
+  "TIME": {
+   "count": 1, 
+   "values": [
+    "a few seconds"
+   ]
+  }, 
+  "DATE": {
+   "count": 2, 
+   "values": [
+    "89 years", 
+    "a few months"
+   ]
+  }, 
+  "ORG": {
+   "count": 1, 
+   "values": [
+    "Dyson"
+   ]
+  }
+ }, 
+ "2nvwxd": {
+  "DATE": {
+   "count": 2, 
+   "values": [
+    "1963", 
+    "the year 2144"
+   ]
+  }, 
+  "PERSON": {
+   "count": 2, 
+   "values": [
+    "Oswald", 
+    "Kennedy"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 5, 
+   "values": [
+    "one", 
+    "hundreds", 
+    "Three", 
+    "One", 
+    "142"
+   ]
+  }, 
+  "GPE": {
+   "count": 1, 
+   "values": [
+    "Bethlehem"
+   ]
+  }
+ }, 
+ "1ojq30": {
+  "DATE": {
+   "count": 2, 
+   "values": [
+    "25 years old", 
+    "daily"
+   ]
+  }, 
+  "ORG": {
+   "count": 1, 
+   "values": [
+    "Ethics"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 1, 
+   "values": [
+    "two"
+   ]
+  }
+ }, 
+ "59wd4q": {
+  "DATE": {
+   "count": 3, 
+   "values": [
+    "the worst year", 
+    "years", 
+    "yesterday"
+   ]
+  }, 
+  "PERSON": {
+   "count": 2, 
+   "values": [
+    "Jamila Mubarak", 
+    "Jamila"
+   ]
+  }, 
+  "TIME": {
+   "count": 1, 
+   "values": [
+    "the night"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 1, 
+   "values": [
+    "a thousand"
+   ]
+  }, 
+  "LOC": {
+   "count": 2, 
+   "values": [
+    "Earth", 
+    "the moon"
+   ]
+  }
+ }, 
+ "1on33c": {
+  "DATE": {
+   "count": 4, 
+   "values": [
+    "the day", 
+    "102 years old", 
+    "25-year-old", 
+    "12th"
+   ]
+  }, 
+  "WORK_OF_ART": {
+   "count": 1, 
+   "values": [
+    "The Eternal War"
+   ]
+  }
+ }, 
+ "5q4qir": {
+  "LOC": {
+   "count": 2, 
+   "values": [
+    "Earth", 
+    "the Milky Way"
+   ]
+  }, 
+  "GPE": {
+   "count": 2, 
+   "values": [
+    "Polaris", 
+    "Pollux"
+   ]
+  }, 
+  "PERSON": {
+   "count": 9, 
+   "values": [
+    "Gemini", 
+    "Castor", 
+    "Helen of Troy", 
+    "Rigel", 
+    "Stranger", 
+    "Capella", 
+    "Sirius", 
+    "Canis Major", 
+    "Aldura"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 6, 
+   "values": [
+    "hundreds", 
+    "1s", 
+    "0s", 
+    "two", 
+    "one", 
+    "several hundred light-years"
+   ]
+  }, 
+  "TIME": {
+   "count": 4, 
+   "values": [
+    "only a few hours ago", 
+    "a few minutes", 
+    "the evening", 
+    "the night"
+   ]
+  }, 
+  "DATE": {
+   "count": 3, 
+   "values": [
+    "the early 1960s", 
+    "years", 
+    "700 years ago"
+   ]
+  }, 
+  "ORG": {
+   "count": 5, 
+   "values": [
+    "Universitys", 
+    "Betelgeuse", 
+    "Orions", 
+    "the Dog Star", 
+    "Polaris"
+   ]
+  }, 
+  "QUANTITY": {
+   "count": 1, 
+   "values": [
+    "hundreds of light"
+   ]
+  }
+ }, 
+ "3n0q5t": {
+  "PERSON": {
+   "count": 2, 
+   "values": [
+    "Richard", 
+    "Alan"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 5, 
+   "values": [
+    "hundred", 
+    "Three", 
+    "two", 
+    "one", 
+    "one hundred"
+   ]
+  }, 
+  "TIME": {
+   "count": 1, 
+   "values": [
+    "One second"
+   ]
+  }
+ }, 
+ "6ahu86": {
+  "DATE": {
+   "count": 9, 
+   "values": [
+    "2017", 
+    "3000 AD", 
+    "5000 AD", 
+    "10,000 AD", 
+    "thousands of years", 
+    "years", 
+    "trillions of years", 
+    "my first million years", 
+    "eons"
+   ]
+  }, 
+  "ORG": {
+   "count": 3, 
+   "values": [
+    "BC", 
+    "Time", 
+    "  "
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 5, 
+   "values": [
+    "1000", 
+    "3000", 
+    "thousands", 
+    "trillions", 
+    "one"
+   ]
+  }, 
+  "MONEY": {
+   "count": 2, 
+   "values": [
+    "one hundred trillion", 
+    "a hundred billion years"
+   ]
+  }
+ }, 
+ "6gjbtv": {
+  "LOC": {
+   "count": 6, 
+   "values": [
+    "Atlantic", 
+    "the Persian Gulf", 
+    "the mid-Pacific", 
+    "Galapagos", 
+    "Africa", 
+    "Earth"
+   ]
+  }, 
+  "GPE": {
+   "count": 2, 
+   "values": [
+    "Madagascar", 
+    "Congo"
+   ]
+  }, 
+  "PERSON": {
+   "count": 1, 
+   "values": [
+    "Angolan"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 4, 
+   "values": [
+    "hundreds", 
+    "2 or 3 dozen", 
+    "up to 300", 
+    "thousands"
+   ]
+  }, 
+  "DATE": {
+   "count": 3, 
+   "values": [
+    "weeks later", 
+    "the past 3 months", 
+    "just weeks"
+   ]
+  }, 
+  "ORG": {
+   "count": 8, 
+   "values": [
+    "Accounts", 
+    "Great White", 
+    "Eastern", 
+    "Alaska & Canada", 
+    "YouTube", 
+    " ", 
+    "Bjorn Wagner", 
+    "Bjorn"
+   ]
+  }
+ }, 
+ "2q5g16": {
+  "LOC": {
+   "count": 1, 
+   "values": [
+    "Earth"
+   ]
+  }, 
+  "PRODUCT": {
+   "count": 1, 
+   "values": [
+    "XR-325B"
+   ]
+  }, 
+  "PERSON": {
+   "count": 5, 
+   "values": [
+    "XR-325B", 
+    "Faster-Than-Light", 
+    "John", 
+    "Vangeli", 
+    "Noah"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 1, 
+   "values": [
+    "only one"
+   ]
+  }, 
+  "DATE": {
+   "count": 13, 
+   "values": [
+    "a few months", 
+    "all these years", 
+    "the last one", 
+    "more than a day", 
+    "Two days", 
+    "the days", 
+    "weeks", 
+    "one month", 
+    "One month", 
+    "5000 years ago", 
+    "5000 years", 
+    "only a couple thousand years", 
+    "a few thousand years"
+   ]
+  }, 
+  "ORG": {
+   "count": 2, 
+   "values": [
+    "FTL", 
+    "FTL Travel"
+   ]
+  }
+ }, 
+ "21gmx6": {
+  "DATE": {
+   "count": 2, 
+   "values": [
+    "a couple years", 
+    "the last few years"
+   ]
+  }, 
+  "GPE": {
+   "count": 1, 
+   "values": [
+    "Youth"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 1, 
+   "values": [
+    "one"
+   ]
+  }
+ }, 
+ "3b2q9x": {
+  "DATE": {
+   "count": 2, 
+   "values": [
+    "20 years or so", 
+    "20 years"
+   ]
+  }, 
+  "ORG": {
+   "count": 1, 
+   "values": [
+    "Justice"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 1, 
+   "values": [
+    "Zero"
+   ]
+  }
+ }, 
+ "6vqny2": {
+  "LOC": {
+   "count": 2, 
+   "values": [
+    "Mars", 
+    "Earth"
+   ]
+  }, 
+  "PERSON": {
+   "count": 1, 
+   "values": [
+    "Ill"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 2, 
+   "values": [
+    "one", 
+    "hundred"
+   ]
+  }, 
+  "TIME": {
+   "count": 1, 
+   "values": [
+    "a few hours"
+   ]
+  }, 
+  "DATE": {
+   "count": 6, 
+   "values": [
+    "A few years ago", 
+    "four years", 
+    "two days", 
+    "2091", 
+    "Six years", 
+    "day"
+   ]
+  }, 
+  "ORG": {
+   "count": 2, 
+   "values": [
+    "Atmospheric", 
+    "Sun"
+   ]
+  }, 
+  "QUANTITY": {
+   "count": 1, 
+   "values": [
+    "hundreds of kilometers"
+   ]
+  }
+ }, 
+ "2wozy6": {
+  "LOC": {
+   "count": 3, 
+   "values": [
+    "Midwest", 
+    "the East Side", 
+    "Paradise"
+   ]
+  }, 
+  "GPE": {
+   "count": 2, 
+   "values": [
+    "America", 
+    "The Dashboard Lights Brian"
+   ]
+  }, 
+  "PERSON": {
+   "count": 2, 
+   "values": [
+    "Brian", 
+    "Blood"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 8, 
+   "values": [
+    "three", 
+    "no more than five", 
+    "thirty or so", 
+    "One", 
+    "four", 
+    "one", 
+    "thousands", 
+    "half"
+   ]
+  }, 
+  "TIME": {
+   "count": 8, 
+   "values": [
+    "mornings", 
+    "afternoons", 
+    "night", 
+    "the night", 
+    "morning", 
+    "the nights", 
+    "tonight", 
+    "almost two hours"
+   ]
+  }, 
+  "DATE": {
+   "count": 2, 
+   "values": [
+    "two years", 
+    "A few weeks ago"
+   ]
+  }, 
+  "FAC": {
+   "count": 2, 
+   "values": [
+    "the Red Virus", 
+    "The Red Virus"
+   ]
+  }
+ }, 
+ "3jxiyo": {
+  "DATE": {
+   "count": 2, 
+   "values": [
+    "today", 
+    "tomorrow"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 1, 
+   "values": [
+    "one"
+   ]
+  }
+ }, 
+ "6h7j6h": {
+  "LOC": {
+   "count": 1, 
+   "values": [
+    "Earth"
+   ]
+  }, 
+  "PERCENT": {
+   "count": 2, 
+   "values": [
+    "10-25%", 
+    "5%"
+   ]
+  }, 
+  "PERSON": {
+   "count": 2, 
+   "values": [
+    "God", 
+    "Xricemma"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 4, 
+   "values": [
+    "thousands", 
+    "12", 
+    "quarter", 
+    "one"
+   ]
+  }, 
+  "TIME": {
+   "count": 3, 
+   "values": [
+    "a few hours", 
+    "hours", 
+    "last night"
+   ]
+  }, 
+  "DATE": {
+   "count": 4, 
+   "values": [
+    "October  ", 
+    "bedlam", 
+    "a few weeks", 
+    "the next century"
+   ]
+  }, 
+  "ORG": {
+   "count": 3, 
+   "values": [
+    "Pflucik", 
+    "The Galactic Eco-Council", 
+    "Xricemma"
+   ]
+  }
+ }, 
+ "3c6eus": {
+  "DATE": {
+   "count": 5, 
+   "values": [
+    "days", 
+    "at least two full weeks", 
+    "today", 
+    "A couple weeks", 
+    "13 days"
+   ]
+  }, 
+  "PERSON": {
+   "count": 1, 
+   "values": [
+    "Wilkerson"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 1, 
+   "values": [
+    "one"
+   ]
+  }, 
+  "TIME": {
+   "count": 4, 
+   "values": [
+    "five o'clock", 
+    "60 seconds", 
+    "just a moment ago", 
+    "One minute"
+   ]
+  }
+ }, 
+ "3e7q7q": {
+  "GPE": {
+   "count": 2, 
+   "values": [
+    "Awww", 
+    "Gena"
+   ]
+  }, 
+  "PERCENT": {
+   "count": 1, 
+   "values": [
+    "99.9%"
+   ]
+  }, 
+  "PERSON": {
+   "count": 2, 
+   "values": [
+    "enjoy!.  ", 
+    "Snow White"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 5, 
+   "values": [
+    "one", 
+    "half", 
+    "two", 
+    "One", 
+    "only one"
+   ]
+  }, 
+  "TIME": {
+   "count": 3, 
+   "values": [
+    "like seconds", 
+    "about ten minutes", 
+    "a few hours"
+   ]
+  }, 
+  "DATE": {
+   "count": 5, 
+   "values": [
+    "a few nights", 
+    "last Christmas", 
+    "a little less than 60 years", 
+    "this many months", 
+    "over a century"
+   ]
+  }
+ }, 
+ "61nxmo": {
+  "LOC": {
+   "count": 2, 
+   "values": [
+    "Mars", 
+    "Earth"
+   ]
+  }, 
+  "WORK_OF_ART": {
+   "count": 1, 
+   "values": [
+    "Martian Independence"
+   ]
+  }, 
+  "GPE": {
+   "count": 1, 
+   "values": [
+    "Independence"
+   ]
+  }, 
+  "PERSON": {
+   "count": 6, 
+   "values": [
+    "James", 
+    "Martian Independence Day", 
+    "Markov", 
+    "Dmitri", 
+    "Rosa", 
+    "Independence"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 6, 
+   "values": [
+    "Two", 
+    "twenty", 
+    "Ten", 
+    "two", 
+    "four", 
+    "one"
+   ]
+  }, 
+  "TIME": {
+   "count": 1, 
+   "values": [
+    "three in the morning"
+   ]
+  }, 
+  "DATE": {
+   "count": 9, 
+   "values": [
+    "today", 
+    "Five years", 
+    "ten years", 
+    "five year", 
+    "that day", 
+    "the first month", 
+    "the second year", 
+    "Years three", 
+    "the last two"
+   ]
+  }, 
+  "ORG": {
+   "count": 1, 
+   "values": [
+    "Markov"
+   ]
+  }, 
+  "EVENT": {
+   "count": 3, 
+   "values": [
+    "annual Independence Day", 
+    "Martian Independence Day", 
+    "Independence Day Number Five"
+   ]
+  }
+ }, 
+ "3qzcpv": {
+  "LOC": {
+   "count": 1, 
+   "values": [
+    "Mars"
+   ]
+  }, 
+  "PRODUCT": {
+   "count": 2, 
+   "values": [
+    "Mars", 
+    "the Independent Mars Declaration"
+   ]
+  }, 
+  "WORK_OF_ART": {
+   "count": 2, 
+   "values": [
+    "\"The Martian\"", 
+    "Sat-E-Light"
+   ]
+  }, 
+  "PERSON": {
+   "count": 2, 
+   "values": [
+    "M. Watney", 
+    "Percival"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 2, 
+   "values": [
+    "one", 
+    "three"
+   ]
+  }, 
+  "DATE": {
+   "count": 4, 
+   "values": [
+    "those days", 
+    "an early 21st century", 
+    "21st century", 
+    "the last day"
+   ]
+  }, 
+  "ORG": {
+   "count": 3, 
+   "values": [
+    "NASA", 
+    "  ", 
+    "Planitia"
+   ]
+  }
+ }, 
+ "5jha96": {
+  "DATE": {
+   "count": 3, 
+   "values": [
+    "about another month", 
+    "yesterday", 
+    "about a month"
+   ]
+  }
+ }, 
+ "3cq4z5": {
+  "DATE": {
+   "count": 3, 
+   "values": [
+    "5 days", 
+    "3 days", 
+    "2 days"
+   ]
+  }, 
+  "LOC": {
+   "count": 1, 
+   "values": [
+    " "
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 7, 
+   "values": [
+    "two", 
+    "5", 
+    "7", 
+    "five million", 
+    "two hundred and five thousand", 
+    "six hundred and twelve", 
+    "5,205,614"
+   ]
+  }, 
+  "PERSON": {
+   "count": 1, 
+   "values": [
+    "Haha"
+   ]
+  }, 
+  "TIME": {
+   "count": 2, 
+   "values": [
+    "4 in the morning", 
+    "a few hours"
+   ]
+  }
+ }, 
+ "94q9sb": {
+  "CARDINAL": {
+   "count": 1, 
+   "values": [
+    "half"
+   ]
+  }
+ }, 
+ "99fwir": {
+  "LOC": {
+   "count": 1, 
+   "values": [
+    "Earth"
+   ]
+  }
+ }, 
+ "369r59": {
+  "DATE": {
+   "count": 3, 
+   "values": [
+    "a few years", 
+    "45 years", 
+    "28 years"
+   ]
+  }, 
+  "ORG": {
+   "count": 1, 
+   "values": [
+    "ETA"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 3, 
+   "values": [
+    "one", 
+    "0.1c", 
+    "60"
+   ]
+  }, 
+  "GPE": {
+   "count": 1, 
+   "values": [
+    "Gena"
+   ]
+  }, 
+  "PERSON": {
+   "count": 1, 
+   "values": [
+    "Haha"
+   ]
+  }
+ }, 
+ "34d3tc": {}, 
+ "5m00yw": {
+  "LOC": {
+   "count": 3, 
+   "values": [
+    "Earth", 
+    "Mars", 
+    "the Red Planet"
+   ]
+  }, 
+  "GPE": {
+   "count": 7, 
+   "values": [
+    "Arizona", 
+    "the Free United States", 
+    "Mehadis", 
+    "Mehadi", 
+    "Patagonia", 
+    "Martian", 
+    "Holbrook"
+   ]
+  }, 
+  "PERSON": {
+   "count": 2, 
+   "values": [
+    "Bala Mehadi", 
+    "Mehadi"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 5, 
+   "values": [
+    "one", 
+    "six", 
+    "a thousand", 
+    "two", 
+    "Two"
+   ]
+  }, 
+  "TIME": {
+   "count": 2, 
+   "values": [
+    "night", 
+    "tonight"
+   ]
+  }, 
+  "DATE": {
+   "count": 5, 
+   "values": [
+    "today", 
+    "Nine months later", 
+    "two decades", 
+    "twenty years", 
+    "Two decades"
+   ]
+  }, 
+  "ORG": {
+   "count": 6, 
+   "values": [
+    "The United World Government of Earth", 
+    "Rebellion", 
+    "Galactic Dominion Materials Corporation", 
+    "Galactic Dominion Materials Corporations", 
+    "Galactic Dominion Materials", 
+    "the Grand Canyon Station"
+   ]
+  }, 
+  "QUANTITY": {
+   "count": 1, 
+   "values": [
+    "millions of miles"
+   ]
+  }
+ }, 
+ "9u6fmw": {
+  "DATE": {
+   "count": 1, 
+   "values": [
+    "centuries"
+   ]
+  }, 
+  "ORG": {
+   "count": 1, 
+   "values": [
+    " "
+   ]
+  }, 
+  "LOC": {
+   "count": 3, 
+   "values": [
+    "Venus", 
+    "Europa", 
+    "Earth"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 1, 
+   "values": [
+    "one"
+   ]
+  }, 
+  "TIME": {
+   "count": 1, 
+   "values": [
+    "hours"
+   ]
+  }
+ }, 
+ "7q6fgz": {
+  "DATE": {
+   "count": 4, 
+   "values": [
+    "about a month ago", 
+    "close quarters", 
+    "20 years", 
+    "that day"
+   ]
+  }, 
+  "PERSON": {
+   "count": 1, 
+   "values": [
+    "Emily"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 3, 
+   "values": [
+    "Hundreds", 
+    "only 12", 
+    "two"
+   ]
+  }, 
+  "ORG": {
+   "count": 1, 
+   "values": [
+    "Bulges"
+   ]
+  }, 
+  "LOC": {
+   "count": 1, 
+   "values": [
+    "Earth"
+   ]
+  }
+ }, 
+ "2jymi4": {
+  "DATE": {
+   "count": 2, 
+   "values": [
+    "only a couple days", 
+    "Another wave three days later"
+   ]
+  }, 
+  "PERSON": {
+   "count": 1, 
+   "values": [
+    "Billions"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 5, 
+   "values": [
+    "nearly 2,000", 
+    "One", 
+    "almost 12,000", 
+    "one", 
+    "almost 50,000"
+   ]
+  }, 
+  "LANGUAGE": {
+   "count": 2, 
+   "values": [
+    "English", 
+    "Earthly"
+   ]
+  }, 
+  "QUANTITY": {
+   "count": 1, 
+   "values": [
+    "a couple miles"
+   ]
+  }
+ }, 
+ "2k8dqb": {
+  "ORG": {
+   "count": 2, 
+   "values": [
+    "Kolacth", 
+    "Extinct"
+   ]
+  }, 
+  "WORK_OF_ART": {
+   "count": 1, 
+   "values": [
+    "Green Tea'"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 1, 
+   "values": [
+    "Only one"
+   ]
+  }, 
+  "GPE": {
+   "count": 1, 
+   "values": [
+    "Looking"
+   ]
+  }, 
+  "PERSON": {
+   "count": 2, 
+   "values": [
+    "Erth Sustenance", 
+    "Twinings"
+   ]
+  }
+ }, 
+ "37taze": {
+  "MONEY": {
+   "count": 1, 
+   "values": [
+    "two billion Martian"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 1, 
+   "values": [
+    "two billion"
+   ]
+  }, 
+  "PERSON": {
+   "count": 1, 
+   "values": [
+    "Brain"
+   ]
+  }
+ }, 
+ "8laxfe": {
+  "DATE": {
+   "count": 4, 
+   "values": [
+    "2031", 
+    "decades", 
+    "century", 
+    "the past hundred years"
+   ]
+  }, 
+  "ORG": {
+   "count": 1, 
+   "values": [
+    "Biotech"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 1, 
+   "values": [
+    "hundreds"
+   ]
+  }
+ }, 
+ "3k7c30": {
+  "GPE": {
+   "count": 2, 
+   "values": [
+    "Atlantia", 
+    "Triarius"
+   ]
+  }, 
+  "ORG": {
+   "count": 1, 
+   "values": [
+    "Triarius*. Solid"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 1, 
+   "values": [
+    "eighty"
+   ]
+  }, 
+  "PERSON": {
+   "count": 1, 
+   "values": [
+    "Flashes"
+   ]
+  }, 
+  "QUANTITY": {
+   "count": 1, 
+   "values": [
+    "Fifty millimeter"
+   ]
+  }
+ }, 
+ "3q8stw": {
+  "LOC": {
+   "count": 1, 
+   "values": [
+    "Jeremy Gardens"
+   ]
+  }, 
+  "PERSON": {
+   "count": 6, 
+   "values": [
+    "Benjamin", 
+    "Seriously Ben", 
+    "Jeremy Gardens", 
+    "Ben", 
+    "Gregory Wiesmann", 
+    "Greg"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 1, 
+   "values": [
+    "one"
+   ]
+  }, 
+  "TIME": {
+   "count": 3, 
+   "values": [
+    "This morning", 
+    "this morning", 
+    "one second"
+   ]
+  }, 
+  "DATE": {
+   "count": 9, 
+   "values": [
+    "Five years", 
+    "Seven years ago", 
+    "Seven years", 
+    "seven years ago", 
+    "27 years old", 
+    "13", 
+    "five years", 
+    "Thirteen years", 
+    "about two weeks"
+   ]
+  }, 
+  "ORG": {
+   "count": 1, 
+   "values": [
+    " "
+   ]
+  }
+ }, 
+ "3iusbi": {
+  "MONEY": {
+   "count": 1, 
+   "values": [
+    "billions of dollars"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 1, 
+   "values": [
+    "one"
+   ]
+  }, 
+  "GPE": {
+   "count": 1, 
+   "values": [
+    "colonies"
+   ]
+  }, 
+  "DATE": {
+   "count": 3, 
+   "values": [
+    "that day", 
+    "the last ten years", 
+    "every year"
+   ]
+  }, 
+  "ORG": {
+   "count": 3, 
+   "values": [
+    "Project Omega", 
+    "Moore's Law", 
+    "FTL"
+   ]
+  }, 
+  "QUANTITY": {
+   "count": 1, 
+   "values": [
+    "a million kilometers"
+   ]
+  }
+ }, 
+ "3eqjhw": {
+  "DATE": {
+   "count": 1, 
+   "values": [
+    "Many years ago"
+   ]
+  }, 
+  "PERSON": {
+   "count": 1, 
+   "values": [
+    "Wilkerson"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 2, 
+   "values": [
+    "five", 
+    "one"
+   ]
+  }, 
+  "TIME": {
+   "count": 1, 
+   "values": [
+    "tomorrow night"
+   ]
+  }
+ }, 
+ "1r41zn": {
+  "DATE": {
+   "count": 4, 
+   "values": [
+    "Four light years", 
+    "35 years", 
+    "three and a half decades", 
+    "38 years"
+   ]
+  }, 
+  "FAC": {
+   "count": 1, 
+   "values": [
+    "Alpha Centari"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 1, 
+   "values": [
+    "two"
+   ]
+  }
+ }, 
+ "9q3clh": {
+  "DATE": {
+   "count": 3, 
+   "values": [
+    "decades", 
+    "a couple weeks", 
+    "4"
+   ]
+  }, 
+  "ORG": {
+   "count": 2, 
+   "values": [
+    "UN", 
+    "Experimental Cybernetics"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 3, 
+   "values": [
+    "three", 
+    "one", 
+    "zero"
+   ]
+  }
+ }, 
+ "3jgycg": {
+  "DATE": {
+   "count": 2, 
+   "values": [
+    "week", 
+    "the century"
+   ]
+  }, 
+  "PERSON": {
+   "count": 1, 
+   "values": [
+    "Dave"
+   ]
+  }, 
+  "TIME": {
+   "count": 2, 
+   "values": [
+    "a few minutes", 
+    "more than 20 minutes"
+   ]
+  }, 
+  "ORG": {
+   "count": 1, 
+   "values": [
+    "Anger"
+   ]
+  }
+ }, 
+ "35i6c1": {
+  "PERSON": {
+   "count": 3, 
+   "values": [
+    "Sol", 
+    "Horrified", 
+    "Milky Way"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 3, 
+   "values": [
+    "one", 
+    "1 trillion", 
+    "more than 4"
+   ]
+  }, 
+  "ORG": {
+   "count": 2, 
+   "values": [
+    "Renaissance", 
+    "Alcubierre"
+   ]
+  }, 
+  "GPE": {
+   "count": 1, 
+   "values": [
+    "Titan"
+   ]
+  }
+ }, 
+ "3hcteu": {
+  "DATE": {
+   "count": 1, 
+   "values": [
+    "5-4"
+   ]
+  }, 
+  "ORG": {
+   "count": 1, 
+   "values": [
+    "  HARD REBOOT"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 1, 
+   "values": [
+    "4"
+   ]
+  }
+ }, 
+ "6gr0as": {
+  "LOC": {
+   "count": 1, 
+   "values": [
+    "Earth"
+   ]
+  }, 
+  "PERSON": {
+   "count": 1, 
+   "values": [
+    "Panic"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 3, 
+   "values": [
+    "two", 
+    "one", 
+    "only two"
+   ]
+  }, 
+  "TIME": {
+   "count": 2, 
+   "values": [
+    "the seconds", 
+    "At night"
+   ]
+  }, 
+  "DATE": {
+   "count": 10, 
+   "values": [
+    "sixty years", 
+    "centuries ago", 
+    "20-light-year", 
+    "20 years ago", 
+    "the last month", 
+    "40 years later", 
+    "at least a month", 
+    "Tomorrow", 
+    "month ago", 
+    "A day later"
+   ]
+  }, 
+  "ORG": {
+   "count": 1, 
+   "values": [
+    "Time"
+   ]
+  }
+ }, 
+ "2g4q9u": {
+  "PERSON": {
+   "count": 1, 
+   "values": [
+    "Peter"
+   ]
+  }, 
+  "QUANTITY": {
+   "count": 1, 
+   "values": [
+    "thousands of miles"
+   ]
+  }
+ }, 
+ "8thx3q": {
+  "DATE": {
+   "count": 1, 
+   "values": [
+    "one week"
+   ]
+  }, 
+  "PERSON": {
+   "count": 1, 
+   "values": [
+    "Altitude"
+   ]
+  }, 
+  "PRODUCT": {
+   "count": 1, 
+   "values": [
+    "Flight 131"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 4, 
+   "values": [
+    "12-hour", 
+    "3,000-feet", 
+    "two", 
+    "one"
+   ]
+  }
+ }, 
+ "80w727": {
+  "LOC": {
+   "count": 1, 
+   "values": [
+    "Earth"
+   ]
+  }, 
+  "WORK_OF_ART": {
+   "count": 1, 
+   "values": [
+    "Playboy"
+   ]
+  }, 
+  "LANGUAGE": {
+   "count": 1, 
+   "values": [
+    "English"
+   ]
+  }, 
+  "GPE": {
+   "count": 1, 
+   "values": [
+    "America"
+   ]
+  }, 
+  "PERSON": {
+   "count": 3, 
+   "values": [
+    "William Sage", 
+    "Williams", 
+    "William"
+   ]
+  }, 
+  "CARDINAL": {
+   "count": 1, 
+   "values": [
+    "3500"
+   ]
+  }, 
+  "DATE": {
+   "count": 5, 
+   "values": [
+    "January 9th, 2007", 
+    "2001", 
+    "June 23rd, 2018", 
+    "one day", 
+    "weekly"
+   ]
+  }, 
+  "EVENT": {
+   "count": 1, 
+   "values": [
+    "September 11th"
+   ]
+  }
+ }
+}

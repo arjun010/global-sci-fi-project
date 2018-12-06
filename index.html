@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Global Science Fiction Project</title>
+	<meta charset="utf-8">
+
+	<script src="https://cdn.jsdelivr.net/npm/vega@4.3.0/build/vega.js"></script>
+  	<script src="https://cdn.jsdelivr.net/npm/vega-lite@3.0.0-rc10/build/vega-lite.js"></script>
+  	<script src="https://cdn.jsdelivr.net/npm/vega-embed@3.24.1/build/vega-embed.js"></script>
+</head>
+<body>
+	<table>
+		<tr>
+			<td>
+				<h3>Post scores:</h3>
+				<div id="postScore_vis" style="width: 500px;height: 500px;overflow:auto;"></div>
+			</td>
+			<td>
+				<h3>Comment counts:</h3>
+				<div id="commCount_vis" style="width: 500px;height: 500px;overflow:auto;"></div>	
+			</td>
+			<td>
+				<h3>Sentiment scores:</h3>
+				<div id="sentiment_vis" style="width: 500px;height: 500px;overflow:auto;"></div>	
+			</td>
+		</tr>
+	</table>
+</body>
+<script>
+  // Assign the specification to a local variable vlSpec.
+  var postScoreSpec = {
+	  "$schema": "https://vega.github.io/schema/vega-lite/v3.json",
+	  "data": {
+	  	"url" : "compiledData.json"
+	  },
+	  "encoding": {
+	    "y": {"field": "title", "type": "nominal"},
+	    "x": {"field": "postScore", "type": "quantitative"}
+	  },
+	  "layer": [{
+	    "mark": "bar"
+	  	}, {
+	    "mark": {
+	      "type": "text",
+	      "align": "left",
+	      "baseline": "middle",
+	      "dx": 3
+	    },
+	    "encoding": {
+	      "text": {"field": "postScore", "type": "quantitative"}
+	    }
+	  }]
+	};
+
+  // Embed the visualization in the container with id `vis`
+  vegaEmbed("#postScore_vis", postScoreSpec,{
+  "mode": "vega-lite",
+  "actions": false,
+});
+
+  var commCountSpec = {
+	  "$schema": "https://vega.github.io/schema/vega-lite/v3.json",
+	  "data": {
+	  	"url" : "compiledData.json"
+	  },
+	  "encoding": {
+	    "y": {"field": "title", "type": "nominal"},
+	    "x": {"field": "commentsCount", "type": "quantitative"}
+	  },
+	  "layer": [{
+	    "mark": "bar"
+	  	}, {
+	    "mark": {
+	      "type": "text",
+	      "align": "left",
+	      "baseline": "middle",
+	      "dx": 3
+	    },
+	    "encoding": {
+	      "text": {"field": "commentsCount", "type": "quantitative"}
+	    }
+	  }]
+	};
+	vegaEmbed("#commCount_vis", commCountSpec,{
+  "mode": "vega-lite",
+  "actions": false,
+});
+	// ,"tooltip": {"content":"data"}
+  var sentimentScoreSpec = {
+	  "$schema": "https://vega.github.io/schema/vega-lite/v3.json",
+	  "data": {"url": "compiledData.json"},
+	  "mark": {"type":"point"},
+	  "selection": {
+	    "grid": {
+	      "type": "interval", "bind": "scales"
+	    }
+	  },
+	  "encoding": {
+	    "x": {"field": "negativeScore","type": "quantitative"},
+	    "y": {"field": "positiveScore","type": "quantitative"},
+	    "tooltip": [
+	    	{"field": "title", "type": "nominal"},
+	    	{"field": "positiveScore", "type": "quantitative"},
+	    	{"field": "negativeScore", "type": "quantitative"}
+	    ]
+	  }
+	};
+  vegaEmbed("#sentiment_vis", sentimentScoreSpec,{
+  "mode": "vega-lite",
+  "actions": false,
+});
+</script>
+</html>

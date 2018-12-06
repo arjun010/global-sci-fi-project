@@ -1,0 +1,7 @@
+*.pkl
+*.gensim
+*.npy
+*.state
+*.id2word
+*.pyc
+venv
